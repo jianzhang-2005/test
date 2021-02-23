@@ -5,3 +5,4 @@ New line
 Local change
 Remote change
 Local change in new branch
+change in Origin/Master

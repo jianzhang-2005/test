@@ -4,3 +4,4 @@ New line
 
 Local change
 Remote change
+Local change in new branch

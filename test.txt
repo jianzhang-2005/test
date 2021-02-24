@@ -5,4 +5,5 @@ New line
 Local change
 Remote change
 Local change in new branch
+change in local/jian
 change in Origin/Master
